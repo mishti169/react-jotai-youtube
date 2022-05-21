@@ -1,0 +1,4 @@
+.videoDetailsContainer {
+	grid-area: detail;
+	width: fit-content;
+}

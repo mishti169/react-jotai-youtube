@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+.playerContainer {
+	margin: auto;
+	max-width: fit-content;
+	display: grid;
+	grid-template-areas:
+		'header  header'
+		'detail  list';
+}

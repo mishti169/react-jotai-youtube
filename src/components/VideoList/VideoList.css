@@ -1,0 +1,8 @@
+.videoListContainer {
+	grid-area: list;
+	max-width: 260px;
+	padding: 10px;
+	text-align: justify;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 14px;
+}

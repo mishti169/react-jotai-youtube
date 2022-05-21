@@ -1,0 +1,14 @@
+.searchbarContainer {
+	min-height: 90px;
+	grid-area: header;
+	display: flex;
+	justify-content: space-evenly;
+	padding: 20px;
+}
+
+.searchBox {
+	padding: 6px 40px;
+}
+.searchButton {
+	padding: 6px 40px;
+}
